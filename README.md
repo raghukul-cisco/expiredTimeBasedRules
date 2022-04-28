@@ -4,7 +4,6 @@ This API based tool helps in detecting time based rules that have expired from t
 
 In addition to the detection of expired time based rules, the tool also provides the user with the option to either disable the rule, delete the rule or skip the remediation all together.
 
-![add-image-here]()
  
 ## Use Case Description
 
